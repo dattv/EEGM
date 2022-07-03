@@ -1,0 +1,2 @@
+Training acc over epoch: 0.6200
+Validation acc: 0.6744
